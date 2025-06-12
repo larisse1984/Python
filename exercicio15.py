@@ -1,0 +1,5 @@
+p1=float(input("qual o preço do seu produto?"))
+d1=float(input("qual o desconto"))
+d10=float(p1*d1)
+total=float(p1-d10)
+print("o produto custava"+str (p1)+"mas teve o desconto de"+str(d1)+"mas agora está custando"+str (total))

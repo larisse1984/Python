@@ -1,0 +1,6 @@
+d1=int("qual a distância em quilômetros?")
+hec=float(d1*10)
+dec=float(d1*100)
+me=float(d1*1000)
+cen=float(d1*100000)
+mi=float(d1*1000000)

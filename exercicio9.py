@@ -1,0 +1,6 @@
+d1=int(input("qual sua divida?"))
+t1=int(input("qual tempo de sua divida?"))
+taxa=int(input("qual a taxa de juros?"))
+j1=int(d1*t1*taxa)
+total=int(d1+j1)
+print("o juros são de"+str(j1)+"e o total será de"+str(total))

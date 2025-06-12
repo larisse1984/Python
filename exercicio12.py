@@ -1,0 +1,7 @@
+n1=int(input("digite uma nota"))
+n2=int(input("digite outra nota"))
+n3=int(input("digite uma nota"))
+media=int((n1+n2+n3)/3)
+n4=int(input("digite outra nota"))
+nmedia=int(media+n4)
+print("a nova media sera"+str (nmedia))

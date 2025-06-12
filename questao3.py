@@ -1,0 +1,6 @@
+p1=float(input("digite seu peso"))
+d1=int(input("quantos dias vc vai na academia no ano?"))
+mm=float(p1*0.20)
+pg=float(d1-0.40)
+total=float(p1+pg)
+print("você pesava"+str(p1)+"e perdeu"+str(pg)+"kilos porém ganhou"+str(mm)+"de massa muscular e hoje esta pesando"+str(total))

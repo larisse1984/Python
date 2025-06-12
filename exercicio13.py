@@ -1,0 +1,7 @@
+r1=int(input("quanto reais você tem na conta?"))
+dolar=float(r1*5.64)
+euro=float(r1*6.41)
+iene=float(r1*0.039)
+print("você tem equivalente a"+str (dolar)+"dolares")
+print("você tem equivalente a"+str (euro)+"euros")
+print("você tem equivalente a"+str (iene)+"ienes")

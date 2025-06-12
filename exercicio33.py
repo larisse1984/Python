@@ -1,0 +1,5 @@
+s1=int(input("qual é seu salário"))
+f1=int(s1*1.33)
+b1=int(s1*0.74)
+p1=int(s1*1.45)
+print("baseado no seu salário suas ferias seriam"+str(f1)+"seu bonus seriam"+str(b1)+"e caso você fosse promovida seria"+str(p1))
